@@ -12,4 +12,5 @@ let sortArray = function sortingArray(anArray ){
     })
 
 }
+//unfinished
 console.log(sortArray);

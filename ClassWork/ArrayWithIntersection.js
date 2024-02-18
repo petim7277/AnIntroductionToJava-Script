@@ -13,5 +13,6 @@ let setArray = function solvingSetArray(firstArray,secondArray){
     return score
 
 }
+// finished
 
 console.log(setArray(studentAge,studentScores));

@@ -45,5 +45,6 @@ let  calculatingGrade = function cal (numberArray){
 return gradingMessage(result)
 }
 //your conditions wrap it in a function and pass in your grade
+// unfinished
 
 console.log(calculatingGrade(studentScores));
